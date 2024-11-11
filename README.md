@@ -1,2 +1,2 @@
 # Algorithms
-100 algorithm in Python
+100 algorithms in Python
